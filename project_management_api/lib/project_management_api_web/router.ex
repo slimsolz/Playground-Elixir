@@ -25,6 +25,7 @@ defmodule ProjectManagementApiWeb.Router do
 
     resources "/projects", ProjectController, only: [:index, :show]
     resources "/documents", DocumentController, only: [:index, :show]
+    resources "/users", UserController, only: [:index, :show]
     # get "/projects/:slug", ProjectController, :show
   end
 end
