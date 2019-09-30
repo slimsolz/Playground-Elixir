@@ -7,3 +7,5 @@ Leveling up on Elixir by building various apps
 - Cards
 - Identicon
 - Discuss
+- Project Management Api
+- Business Api (Authentication, Password Hashing)
